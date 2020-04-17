@@ -7,6 +7,8 @@
 [![](http://cranlogs.r-pkg.org/badges/hexSticker?color=green)](https://cran.r-project.org/package=hexSticker)
 [![](http://cranlogs.r-pkg.org/badges/last-week/hexSticker?color=green)](https://cran.r-project.org/package=hexSticker)
 
+    ## Warning: package 'hexSticker' was built under R version 3.6.3
+
 ## :writing\_hand: Author
 
 Guangchuang YU <https://guangchuangyu.github.io>
